@@ -27,6 +27,3 @@ Stay updated with our latest news and events:
 
 ## Contributing 🌟
 We welcome contributions from everyone. If you have ideas, resources, or skills to share, please reach out!
-
-## License 📜
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
